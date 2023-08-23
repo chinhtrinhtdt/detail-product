@@ -1,0 +1,14 @@
+.quantity-input {
+    width: auto;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    flex-shrink: 0;
+}
+.quantity-input input {
+    max-width: 2.5em;
+    width: 2.5em;
+    text-align: center;
+    border: none;
+    border-radius: 0 !important;
+    font-size: 1em;
+}

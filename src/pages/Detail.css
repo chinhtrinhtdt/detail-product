@@ -1,0 +1,25 @@
+
+
+.price {
+    white-space: nowrap;
+    color: #111;
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+.currencySymbol {
+    font-size: .75em;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+.prombox {
+    border-radius: 5px;
+    border: 3px solid rgb(255, 161, 39);
+    padding: 20px 10px;
+    font-size: 12px;
+}
+
+.prombox li {
+    color: #288ad6;
+}

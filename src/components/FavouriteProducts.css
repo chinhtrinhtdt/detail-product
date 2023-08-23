@@ -1,0 +1,17 @@
+.product-item a {
+    text-decoration: none;
+    color: black;
+}
+
+.product-item a:hover {
+    color: green;
+}
+
+.regular-price {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.sale-price {
+    color: #ff5622;
+}
